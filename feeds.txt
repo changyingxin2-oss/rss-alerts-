@@ -1,0 +1,128 @@
+# =============================================================
+# feeds.txt — 每日储能情报 RSS 信源清单
+# =============================================================
+# 格式说明：
+#   [组名]         = 分组标题（会出现在 digest 里）
+#   普通行         = RSS/Atom 地址（每行一个）
+#   行首加 !       = "免过滤"信源：条目不经关键词过滤直接进 digest
+#                    （用于官方政策页/召回页——它们条目少且几乎条条重要）
+#   行首加 #       = 注释，脚本会忽略
+#
+# ⚠️ 维护提示：
+#   1. 加信源 = 在网页上点铅笔编辑本文件，加一行，提交。不用改代码。
+#   2. 某个源失效时，digest 末尾的「信源健康」会显示出来，照着修即可。
+#   3. 下面的地址是各站点的标准 feed 路径，个别可能已变更；
+#      首次运行后查看「信源健康」区，把报错的源打开浏览器确认新地址。
+# =============================================================
+
+[全球行业媒体 · 汇聚节点]
+https://www.pv-magazine.com/feed/
+https://pv-magazine-usa.com/feed/
+https://www.pv-magazine.de/feed/
+https://www.pv-magazine.fr/feed/
+https://www.pv-magazine.es/feed/
+https://www.pv-magazine.it/feed/
+https://www.pv-magazine-australia.com/feed/
+https://www.energy-storage.news/feed/
+https://www.ess-news.com/feed/
+https://www.pv-tech.org/feed/
+https://news.google.com/rss/search?q=solar+OR+battery+storage&gl=SE&hl=sv&ceid=SE:sv
+
+[德语生态]
+https://www.solarserver.de/feed/
+https://news.google.com/rss/search?q=site%3Aphotovoltaik.eu&hl=de
+# heise online 能源频道（全站feed量大，靠关键词过滤兜住）
+https://www.heise.de/rss/heise-atom.xml
+
+[英国]
+https://news.google.com/rss/search?q=site%3Acurrent-news.co.uk
+https://news.google.com/rss/search?q=site%3Asolarpowerportal.co.uk
+
+[澳新]
+https://news.google.com/rss/search?q=site%3Areneweconomy.com.au
+https://news.google.com/rss/search?q=site%3Aonestepoffthegrid.com.au
+https://www.solarquotes.com.au/blog/feed/
+
+[美国]
+https://www.canarymedia.com/rss.xml
+https://www.utilitydive.com/feeds/news/
+
+[法国/南欧/荷波]
+https://www.revolution-energetique.com/feed/
+https://www.qualenergia.it/feed/
+https://elperiodicodelaenergia.com/feed/
+https://news.google.com/rss/search?q=site%3Asolarmagazine.nl
+https://gramwzielone.pl/feed
+https://wysokienapiecie.pl/feed/
+https://ceenergynews.com/feed/
+
+[瑞士]
+https://news.google.com/rss/search?q=site%3Aee-news.ch
+
+[亚洲/东南亚]
+https://solarquarter.com/feed/
+
+[官方 · 政策/召回（免过滤直击源）]
+# gov.uk 的搜索页支持 .atom 输出——这条订阅 = 每天自动直击 DESNZ 政策/咨询列表
+!https://www.gov.uk/search/policy-papers-and-consultations.atom?organisations%5B%5D=department-for-energy-security-and-net-zero
+!https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-energy-security-and-net-zero
+# 美国 CPSC 产品召回
+https://www.cpsc.gov/Newsroom/CPSC-RSS-Feed/Recalls-RSS
+# 欧盟委员会能源新闻
+!https://news.google.com/rss/search?q=site%3Aenergy.ec.europa.eu&hl=en
+# 澳洲 RenewEconomy 已覆盖 DCCEEW 大部分动态；官方页多数无RSS，见文末清单
+
+[Google Alerts · 品类词]
+# ↓↓↓ 在 https://www.google.com/alerts 逐个创建，"接收方式"选"RSS Feed"，
+#     把生成的 https://www.google.com/alerts/feeds/... 地址粘到下面。
+#     建议创建的 alert（多语种品类 + 政策动词，专抓"新国家冒头"）：
+#       balcony solar OR plug-in solar regulation
+#       Balkonkraftwerk Speicher
+#       home battery subsidy
+#       residential energy storage policy
+#       portable power station recall
+#       阳台光伏 OR 户用储能 政策
+# https://www.google.com/alerts/feeds/12317634030943780809/9055174811038432502
+# https://www.google.com/alerts/feeds/12317634030943780809/2897750841693662307
+# https://www.google.com/alerts/feeds/12317634030943780809/6234742729284648178
+# https://www.google.com/alerts/feeds/12317634030943780809/3596096209758805902
+# https://www.google.com/alerts/feeds/12317634030943780809/12840120884195009782
+# https://www.google.com/alerts/feeds/12317634030943780809/6234742729284645203
+# https://www.google.com/alerts/feeds/12317634030943780809/10856322187937544187
+# https://www.google.com/alerts/feeds/12317634030943780809/9202561210500373090
+# https://www.google.com/alerts/feeds/12317634030943780809/7723686576071942010
+# https://www.google.com/alerts/feeds/12317634030943780809/15408116610859465062
+# https://www.google.com/alerts/feeds/12317634030943780809/12158065407982461285
+# https://www.google.com/alerts/feeds/12317634030943780809/16666535843374388505
+# https://www.google.com/alerts/feeds/12317634030943780809/15408116610859464972
+
+[Google Alerts · 重点公司]
+# 给旗舰公司各建一个 alert（Tesla Powerwall / Marstek / Zendure / FoxESS /
+# Growatt / Sungrow / AlphaESS / Enphase / SolarEdge / Hoymiles / Deye / BYD battery…）
+# https://www.google.com/alerts/feeds/12317634030943780809/3511880935397149615
+# https://www.google.com/alerts/feeds/12317634030943780809/8485424751910261558
+# https://www.google.com/alerts/feeds/12317634030943780809/2780443424138891726
+# https://www.google.com/alerts/feeds/12317634030943780809/3511880935397149455
+# https://www.google.com/alerts/feeds/12317634030943780809/3511880935397147116
+# https://www.google.com/alerts/feeds/12317634030943780809/12547113795801243517
+# https://www.google.com/alerts/feeds/12317634030943780809/131760047292014708
+#
+# 德国活跃品牌另建德语风险词：如 "FoxESS Urteil OR Verbot OR Rückruf"
+# https://www.google.com/alerts/feeds/12317634030943780809/16894192632704053442
+
+# =============================================================
+# 【无 RSS 的政策靶点】—— 暂由上面的 Google Alerts(site:) 或
+# 后续接 changedetection.io/Visualping 页面监控补上：
+#   ofgem.gov.uk/publications-and-updates
+#   dcceew.gov.au/about/news ・ cer.gov.au/news-and-media
+#   energy.nsw.gov.au/news ・ solar.vic.gov.au/news
+#   bundesnetzagentur.de Pressemitteilungen ・ bmwk.de
+#   cre.fr ・ enedis.fr ・ bfe.admin.ch ・ esti.admin.ch ・ pronovo.ch
+#   idae.es ・ boe.es ・ gse.it ・ arera.it ・ mase.gov.it
+#   cpuc.ca.gov/news ・ dsireusa.org ・ rvo.nl ・ synergrid.be ・ fluvius.be
+#   eeca.govt.nz ・ ea.govt.nz ・ 越南MOIT/EVN ・ 菲DOE/ERC ・ 泰ERC
+#   德国判例: openjur.de ・ dejure.org ・ EU Safety Gate
+# 过渡方案：给关键靶点建 Google Alerts，如
+#   site:ofgem.gov.uk battery OR solar
+#   site:bundesnetzagentur.de Steckersolar OR Speicher
+# =============================================================
