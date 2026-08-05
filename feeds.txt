@@ -32,7 +32,8 @@ https://www.bestmag.co.uk/feed
 # Reuters 全球能源（site: 限定，靠关键词过滤收口）
 https://news.google.com/rss/search?q=site%3Areuters.com&hl=en&gl=US&ceid=US:en
 # POWER Magazine
-https://www.powermag.com/category/energy-storage/feed/ 
+https://www.powermag.com/feed/
+
 [德语生态]
 https://www.solarserver.de/feed/
 https://news.google.com/rss/search?q=site%3Aphotovoltaik.eu&hl=de
