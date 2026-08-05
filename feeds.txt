@@ -27,6 +27,8 @@ https://www.energy-storage.news/feed/
 https://www.ess-news.com/feed/
 https://www.pv-tech.org/feed/
 https://news.google.com/rss/search?q=solar+OR+battery+storage&gl=SE&hl=sv&ceid=SE:sv
+# best magazine
+https://www.bestmag.co.uk/feed
 # Reuters 全球能源（site: 限定，靠关键词过滤收口）
 https://news.google.com/rss/search?q=site%3Areuters.com&hl=en&gl=US&ceid=US:en
 # 各国 energy storage 通用搜索（覆盖无独立 RSS 的本地媒体）
