@@ -205,29 +205,29 @@ https://www.google.com/alerts/feeds/02133493801194607926/16146918729223397864
 # "residential solar" OR "rooftop solar" OR "distributed solar" OR "net metering" subsidy OR policy OR tariff OR bill OR act
 https://www.google.com/alerts/feeds/02133493801194607926/16146918729223398119
 # "energy storage" OR solar subsidy OR incentive OR rebate OR "tax credit" OR grant residential OR home OR household
-# https://www.google.com/alerts/feeds/02133493801194607926/1004553277147798511
+https://www.google.com/alerts/feeds/02133493801194607926/1004553277147798511
 # "solar panel" OR battery OR "energy storage" tariff OR "anti-dumping" OR "trade war" OR "import duty" OR sanction
-# https://www.google.com/alerts/feeds/02133493801194607926/1004553277147797877
+https://www.google.com/alerts/feeds/02133493801194607926/1004553277147797877
 # "energy storage" OR solar bill OR act OR legislation OR regulation OR "building code" residential OR home
-# https://www.google.com/alerts/feeds/02133493801194607926/1004553277147795474
+https://www.google.com/alerts/feeds/02133493801194607926/1004553277147795474
 # Balkonkraftwerk OR "Stecker-Solargerät" OR "Mini-PV" Förderung OR Gesetz OR Verordnung OR Zoll OR Regelung
-# https://www.google.com/alerts/feeds/02133493801194607926/1004553277147796504
+https://www.google.com/alerts/feeds/02133493801194607926/1004553277147796504
 # Heimspeicher OR Stromspeicher OR "Hausbatterie" Förderung OR Subvention OR Pflicht OR Gesetz
-# https://www.google.com/alerts/feeds/02133493801194607926/1004553277147795483
+https://www.google.com/alerts/feeds/02133493801194607926/1004553277147795483
 # Photovoltaik OR Solaranlage Einspeisevergütung OR EEG OR Förderung OR Pflicht OR Mieterstrom
-# https://www.google.com/alerts/feeds/02133493801194607926/1004553277147797868
+https://www.google.com/alerts/feeds/02133493801194607926/1004553277147797868
 # 家庭用蓄電池 OR 住宅用太陽光発電 OR ポータブル電源 補助金 OR 助成金 OR 制度 OR 規制 OR FIT OR FIP
-# https://www.google.com/alerts/feeds/02133493801194607926/2201882766421477719
+https://www.google.com/alerts/feeds/02133493801194607926/2201882766421477719
 # 蓄電池 OR 太陽光 法案 OR 義務化 OR 関税 OR 貿易 OR 新制度
-# https://www.google.com/alerts/feeds/02133493801194607926/2201882766421475997
+https://www.google.com/alerts/feeds/02133493801194607926/2201882766421475997
 # "stockage résidentiel" OR "batterie domestique" OR "autoconsommation solaire" OR "kit solaire" subvention OR prime OR loi OR réglementation OR tarif
-# https://www.google.com/alerts/feeds/02133493801194607926/12553965234254885152
+https://www.google.com/alerts/feeds/02133493801194607926/12553965234254885152
 # "accumulo domestico" OR "fotovoltaico residenziale" OR "batteria casa" incentivo OR bonus OR detrazione OR normativa OR tariffa
-# https://www.google.com/alerts/feeds/02133493801194607926/3625370929132883836
+https://www.google.com/alerts/feeds/02133493801194607926/3625370929132883836
 # "almacenamiento residencial" OR "autoconsumo solar" OR "batería doméstica" OR "energía solar" subsidio OR incentivo OR ley OR regulación OR arancel
-# https://www.google.com/alerts/feeds/02133493801194607926/3625370929132880417
+https://www.google.com/alerts/feeds/02133493801194607926/3625370929132880417
 # 가정용ESS OR 주택태양광 OR 가정용배터리 OR 태양광발전 보조금 OR 지원금 OR 법안 OR 관세 OR 규제
-# https://www.google.com/alerts/feeds/02133493801194607926/3625370929132882054
+https://www.google.com/alerts/feeds/02133493801194607926/3625370929132882054
 
 
 [Google Alerts · 重点公司]
