@@ -1,8 +1,8 @@
 # 每日储能情报 · 候选清单 | 2026-08-05
 
-- 生成时间（UTC）：2026-08-05 03:34
+- 生成时间（UTC）：2026-08-05 03:51
 - 抓取窗口：过去 26 小时
-- 原始条目：4918 条 → 过滤去重后：**95 条**
+- 原始条目：4956 条 → 过滤去重后：**126 条**
 
 > 用途：将本文件交给 Claude（energy-storage-intel skill）分类、评级并生成中文简报。
 
@@ -186,11 +186,11 @@
   https://www.portfolio.hu/en/events/conference-energy/corporate-energy-management-2025/1790/overview/eloadok
   > Corporate Energy Management 2025 - Overview    Portfolio.hu
 
-## 亚洲/东南亚（8 条）
+## 亚洲/东南亚（4 条）
 
-- **Philippines to launch green energy auction for off-grid islands in 2027 - asian-power.com** — asian-power.com | 2026-08-05 02:17 UTC
+- **Philippines to launch green energy auction for off-grid islands in 2027 - Asian Power** — asian-power.com | 2026-08-05 02:17 UTC
   https://asian-power.com/news/philippines-launch-green-energy-auction-off-grid-islands-in-2027
-  > Philippines to launch green energy auction for off-grid islands in 2027    asian-power.com
+  > Philippines to launch green energy auction for off-grid islands in 2027    Asian Power
 - **Pakistan says power challenge has shifted from generation to energy storage** — energyupdate.com.pk | 2026-08-04 19:34 UTC
   https://www.energyupdate.com.pk/2026/08/04/pakistan-says-power-challenge-has-shifted-from-generation-to-energy-storage/
   > Minister says rapid rooftop solar expansion has left country with surplus electricity during daytime Government preparing battery storage, local manufacturing policies to balance increasingly renewable grid ISLAMABAD: Pa
@@ -200,18 +200,6 @@
 - ***Petroleum Division Prepares Gas Sector Deregulation Roadmap with World Bank Support*** — energyupdate.com.pk | 2026-08-04 14:21 UTC
   https://www.energyupdate.com.pk/2026/08/04/petroleum-division-prepares-gas-sector-deregulation-roadmap-with-world-bank-support/
   > *Petroleum Division Prepares Gas Sector Deregulation Roadmap with World Bank Support* Islamabad, August 4, 2026: Federal Minister for Petroleum Ali Pervaiz Malik chaired a high-level meeting with Ms. Bolormaa Amgaabazar,
-- **GERC Extends Bid Submission Deadline For Consultancy On Ancillary Services Regulations In Gujarat** — solarquarter.com | 2026-08-04 12:09 UTC
-  https://solarquarter.com/2026/08/04/gerc-extends-bid-submission-deadline-for-consultancy-on-ancillary-services-regulations-in-gujarat/
-  > The Gujarat Electricity Regulatory Commission has extended the bid submission deadline for consultancy firms assisting with its Ancillary Services and Demand Flexibility Regulations, 2026, to August 14, 2026. Despite req
-- **Solplanet Webinar Highlights Thailand’s Expanding Opportunities in Solar and Energy Storage** — solarquarter.com | 2026-08-04 11:42 UTC
-  https://solarquarter.com/2026/08/04/solplanet-webinar-highlights-thailands-expanding-opportunities-in-solar-and-energy-storage/
-  > Solplanet recently held a webinar titled "Powering Thailand's Clean Energy Future," highlighting the growth of solar energy and battery storage in Thailand. Industry experts discussed market trends, technology innovation
-- **Green Energy Stocks Show Mixed Performance As Broader Indian Markets End Lower (04 August 2026)** — solarquarter.com | 2026-08-04 11:29 UTC
-  https://solarquarter.com/2026/08/04/green-energy-stocks-show-mixed-performance-as-broader-indian-markets-end-lower-04-august-2026/
-  > On August 4, 2026, green energy stocks showed mixed results amid a declining Indian stock market. Exide Industries led with a 3.55% gain on the BSE, while Reliance Industries and Adani Green Energy faced notable losses. 
-- **Ashurst Perkins Coie Advises On Expansion Of Palau’s Major Solar And Battery Storage Project** — solarquarter.com | 2026-08-04 10:24 UTC
-  https://solarquarter.com/2026/08/04/ashurst-perkins-coie-advises-on-expansion-of-palaus-major-solar-and-battery-storage-project/
-  > Ashurst Perkins Coie advised Solar Pacific Pristine Power on expanding a significant solar and battery energy storage project in Palau, enhancing the country's renewable energy capacity. The project, supported by Austral
 
 ## 官方 · 政策/召回（免过滤直击源）（5 条）
 
@@ -321,12 +309,121 @@
   https://www.google.com/url?rct=j&sa=t&url=https://renewablesnow.com/news/base-power-secures-usd-1bn-series-d-launches-texas-made-home-battery-1299164/&ct=ga&cd=CAIyHzAxM2FiNDgxYzcxYjhlMDc6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw3wBKmz9i3g-Uglj-8ND9jO
   > ...  home battery , which is now in production at its Base Factory 1 in Austin. At 39.2 kWh / 78.4 kWh, it is described as one of the largest home ...
 
+## Google Alerts · 重点公司（35 条）
+
+- **This $1,340 backup solar setup packs 5 kWh of storage, and triple the solar input** — google.com | 2026-08-05 01:41 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.thecooldown.com/green-tech/diy-solar-power-system-amazon-build/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw3_5gnDjKWM6m9Y7WkCzfRF
+  > A modular setup sourced entirely from Amazon comes in at about $1340 without solar panels, just $240 more than an  EcoFlow  Delta 3 Max Plus.
+- **Praxis geeft tot 27 procent korting op thuisbatterijen van dit topmerk - Mannen nieuws** — google.com | 2026-08-05 00:28 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://mannen.headliner.nl/item/praxis-geeft-tot-27-procent-korting-op-thuisbatterijen-van-dit-topmerk-jfk-11577&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw1rWW73lkKL5NCTnXdWK9rG
+  > Daarmee wordt minder stroom teruggeleverd aan het net en stijgt het aandeel zelfverbruik. Ook andere  Jackery -modellen zijn afgeprijsd. Praxis bezorgt ...
+- **Beat the plug-in solar rush: how to build a kit now for less than £400 - NationalWorld** — google.com | 2026-08-04 23:24 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.nationalworld.com/recommended/solar-energy-panels-microinverter-savings-8838710&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw3XrC2if97te3VTk69EagXT
+  > The  EcoFlow  Stream 800W microinverter pairs with solar panels to convert generated energy into usable power placeholder image. The  EcoFlow  Stream ...
+- **Amazon Drops Generators and Power Stations Up to 42% Off - Bob Vila** — google.com | 2026-08-04 22:30 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.bobvila.com/reviews/amazon-generators-august-2026/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw0TxD2t5hTZJilxsHNupeET
+  > Save on dual-fuel generators, inverter models, battery power stations, and solar generator kits from Westinghouse, Jackery,  EcoFlow , Anker, Generac, ...
+- **Marstek  BKW-Speicher jetzt rund 60 Euro günstiger | heise online bestenlisten** — google.com | 2026-08-04 22:09 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.heise.de/bestenlisten/deals/marstek-bkw-speicher-jetzt-rund-60-euro-guenstiger/syj1h17&ct=ga&cd=CAIyHGFlYTZlYzQ3MmJkYWI4ZTQ6Y29tOmVuOlVTOkw&usg=AOvVaw1JSmLIb23F_yXI3AFXWI_g
+  > Mit dem B2500D bietet der Hersteller  Marstek  eine Speicherlösung für Balkonkraftwerke an, die den tagsüber erzeugten Solarstrom für den späteren ...
+- **＜令和8年熊本地震＞の避難所に対する支援について | ニコニコニュース** — google.com | 2026-08-04 20:08 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19626394%3Fnews_ref%3Dtop_newComments&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw0Q0ZjhHsQjUfdRhm7H9-_0
+  > モバイルバッテリーメーカー（アンカー・ジャパン株式会社、株式会社INFORICH、 EcoFlow  Technology Japan株式会社、エレコム株式会社、株式会社 ...
+- **Charge Home Solutions Launches the Fastest-Growing Electrician Network in America** — google.com | 2026-08-04 19:04 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.pr.com/press-release/975478&ct=ga&cd=CAIyHGI3ODQwOTVhM2EzMWYzMTQ6Y29tOmVuOlVTOkw&usg=AOvVaw2HjdScJ0R3cHtrtQtfuAhx
+  > Tesla Wall Connector Installation  Tesla Powerwall  Systems Home Battery Storage Smart Electrical Panels Electrical Panel Upgrades 240-Volt Circuits
+- **PV*Sol premium gains 3D building import via Rexplorer - pv Europe** — google.com | 2026-08-04 19:02 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.pveurope.eu/solar-modules/pvsol-premium-gains-3d-building-import-rexplorer&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw242XtcZxkeXAO3RnfniFL0
+  > Ecoflow . PV Europe's products of the week – glare reduction, fence PV and more · Margriet Fotografie. Solar prices steady ...
+- **Операторы БПЛА 14-й ОМБр обратились за помощью | Диалог.UA** — google.com | 2026-08-04 18:58 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.dialog.ua/blogs/337315_1785847638&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw0HvwsKFcnYrAYOhIQgdNZc
+  > По словам военнослужащих, подразделению срочно необходимы станция  EcoFlow , мощный генератор и другие аксессуары, обеспечивающие стабильное ...
+- **Tim KKN-PPM UGM Bakam Bercerita 2026 Tanam 1200 Bibit Mangrove di Sungai Layang ...** — google.com | 2026-08-04 18:33 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.bhayangkarapos.com/2026/08/04/tim-kkn-ppm-ugm-bakam-bercerita-2026-tanam-1200-bibit-mangrove-di-sungai-layang-desa-bukit-layang/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw1Dw4rlU6NI5HBWYhBh-FTC
+  > ...  ECOFLOW : Gerakan Penanaman Mangrove untuk Kelestarian Ekosistem DAS. Kegiatan ini dilaksanakan di Sungai Layang, Desa Bukit Layang, dan diikuti ...
+- **＜令和8年熊本地震＞の避難所に対する支援について - 品川経済新聞** — google.com | 2026-08-04 18:16 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://shinagawa.keizai.biz/release/623887/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw2mFbwGxX7YpcXrq_mKCkne
+  > モバイルバッテリーメーカー（アンカー・ジャパン株式会社、株式会社INFORICH、 EcoFlow  TechnologyJapan株式会社、エレコム株式会社、株式会社オウルテック ...
+- **Segway Max G3 Plus scooter leidt groene deals met $350 pre-orderkorting - Headliner.nl** — google.com | 2026-08-04 18:12 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.headliner.nl/artikelen/segway-max-g3-plus-scooter-leidt-groene-deals-350-pre-orderkorting-100194&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw0imzdCMZ4c-sbyWqFEM7nB
+  > EcoFlow  heeft zijn Outdoor Season Sale verlengd met Prime Day-niveau prijzen op power stations en gratis cadeaus vanaf $169. De actie eindigt vanavond ...
+- **Segway Max G3 Plus e-scooter $350 off pre-order deal, Beatbot iSkim solar pool skimmer ...** — google.com | 2026-08-04 18:04 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://electrek.co/2026/08/04/segway-max-g3-plus-e-scooter-pre-order-beatbot-iskim-solar-pool-skimmer-jackery-tools-more/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw3nvOcpZ209u4wsIEDtuR4z
+  > Jackery  flash sale offers HomePower 3600 Plus 3,584Wh power station + 500W solar panel at $2,199 ($1,600 off), more.  Jackery  currently has a Summer ...
+- **プレスリリース PRTIMES記事詳細 -  Jackery  Japan - 山梨日日新聞** — google.com | 2026-08-04 17:44 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.sannichi.co.jp/prtimes/others/c39188_r334&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw2yToV8l-9gEcLQ9tIt8hWY
+  > ポータブル電源の Jackery 、初のコンセプトカフェ「 Jackery 原宿発電所」を原宿に期間限定オープン！  Jackery  Japan ～太陽エネルギーで淹れたコーヒーや製品 ...
+- **Jackery  SolarVault 3 Pro gegen EcoFlow STREAM Ultra X: Wer gewinnt das Speicher-Duell?** — google.com | 2026-08-04 17:13 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.homeandsmart.de/vergleich-jackery-solarvault3-pro-undstream-ultra-x-0011-700142&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw0G-YBWAtwcZK3YjPjrbIhs
+  > Jackery  gegen EcoFlow: Was sind die Unterschiede? Welche Vorteile bieten die beiden Modelle ? ▶️ SolarVault 3 Pro vs. STREAM Ultra X im ...
+- **EcoFlow  partners with Angat Buhay to support Mindanao Earthquake Relief** — google.com | 2026-08-04 17:09 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.mindanaotimes.com.ph/ecoflow-partners-with-angat-buhay-to-support-mindanao-earthquake-relief/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw3FNuUqTbJY-QOFdI3R_kru
+  > MANILA, Philippines –  EcoFlow , a leading provider of portable power and renewable energy solutions, has partnered with non-government organization ...
+- **Amazon Drops Generators and Portable Power Stations Up to 42% Off—Save on  Jackery  ...** — google.com | 2026-08-04 16:40 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://tech.yahoo.com/home/deals/articles/amazon-drops-generators-portable-power-155901455.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw2LdOuR3DuEGaLaloK-1pmI
+  > Save on dual-fuel generators, inverter models, battery power stations, and solar generator kits from Westinghouse,  Jackery , EcoFlow, Anker, ...
+- **Unterschiedliche Kommunikationsmodule beim Venus E 3.0 - Photovoltaikforum** — google.com | 2026-08-04 15:16 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.photovoltaikforum.com/thread/263167-unterschiedliche-kommunikationsmodule-beim-venus-e-3-0/&ct=ga&cd=CAIyHGFlYTZlYzQ3MmJkYWI4ZTQ6Y29tOmVuOlVTOkw&usg=AOvVaw2GRnqIAYJP2V8sLltXdaR9
+  > Die KI von  Marstek  hat mit folgendes geschrieben: "Sehr geehrter Kunde, derzeit ist für das Kommunikationsmodul dieses Geräts keine offizielle ...
+- **NI Renewables Firm Approved To Install  Tesla Powerwall  | Northern Ireland News, 04/08/2026 - 4ni** — google.com | 2026-08-04 15:10 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.4ni.co.uk/northern-ireland-news/333153/ni-renewables-firm-approved-to-install-tesla-powerwall&ct=ga&cd=CAIyHGI3ODQwOTVhM2EzMWYzMTQ6Y29tOmVuOlVTOkw&usg=AOvVaw0ryDxKG-njliH5lPjQ3uo4
+  > Solmatix has been named a registered  Tesla Powerwall  installer, giving homeowners across Northern Ireland access to Tesla's newest home energy ...
+- **Efficient Jump Starter Lienups : best-selling jump starters - Trend Hunter** — google.com | 2026-08-04 15:07 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.trendhunter.com/amp/trends/bestselling-jump-starters&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw1r0cqC_q8OuLVDQ2YRAF_S
+  > The  EcoFlow  DELTA 3 1000 Air Offers 12-Hours of Power. Similar Ideas · About Us & Contact Innovation Keynote Speakers Best Innovation Conference ...
+- **Marstek  Jupiter C Plus: 2,56-kWh-Speicher jetzt deutlich günstiger - inFranken.de** — google.com | 2026-08-04 15:01 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.infranken.de/ratgeber/verbraucher/schnaeppchen/marstek-jupiter-c-plus-speicher-jetzt-deutlich-guenstiger-art-6283080&ct=ga&cd=CAIyHGFlYTZlYzQ3MmJkYWI4ZTQ6Y29tOmVuOlVTOkw&usg=AOvVaw1mGoptldeTs7WNtzp4CHCH
+  > Der  Marstek  Jupiter C Plus verspricht viel Speicher zum kleinen Preis. Wir zeigen, welche Technik drinsteckt, für wen sich das Angebot lohnt und ...
+- **Jackery  flash sale offers HomePower 3600 Plus 3,584Wh power station + 500W solar panel ...** — google.com | 2026-08-04 15:00 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://9to5toys.com/2026/08/04/jackery-homepower-3600-plus-power-station-500w-solar-panel-2199-more/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw3UU6SDREhj9OxRlxd5PeiT
+  > Jackery  currently has a Summer Home Backup Sale running with a 72-hour flash sale included that is offering up to $3,420 in savings on three ...
+- **IFA 2026 :  Zendure  veut vous aider à mieux consommer l'électricité - Economie Matin** — google.com | 2026-08-04 14:30 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.economiematin.fr/zendure-ifa-2026-veut-aider-mieux-consommer-electricite&ct=ga&cd=CAIyHDY4MThlYTJmNTYxYmMwM2M6Y29tOmVuOlVTOkw&usg=AOvVaw3JCCyd6pne_w-WAtrfsGu6
+  > L'écosystème ZEN+ HOME de  Zendure  intègre panneaux solaires, batteries de stockage, bornes de recharge pour véhicules électriques et même un vélo ...
+- **Solar speichern, Stromkosten senken: Das Yuma- Jackery -System im Überblick** — google.com | 2026-08-04 14:15 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.rundschau-online.de/shoppingwelt/solar-speichern-stromkosten-senken-das-yuma-jackery-system-im-ueberblick-2-1340060&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw2SKMYo7zEtHSE8zyn4t8eu
+  > Balkonkraftwerke werden immer beliebter – wir zeigen zwei aktuelle Systeme von Yuma und  Jackery , die Solarstrom speichern und ins Haus einspeisen.
+- **Jackery  SolarVault 3 Pro Max: Preis-Leistung und Vergleich mit Anker Solarbank 4 Pro** — google.com | 2026-08-04 13:36 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.ruhr24.de/service/garten/jackery-solarvault-3-neuer-speicher-balkonkraftwerk-eigenverbrauch-solar-cc-vergleich-solarbank-4-94426976.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw2kOwDMGtvPQKVL3fZN8zO3
+  > Balkonkraftwerk-Speicher mit echtem Mehrwert:  Jackery  SolarVault 3 liefert 2500 Watt, integriertes Feuerlöschsystem und wächst bis 15 kWh.
+- **SOYOKAZE、給与前払い制度を全職員に導入 採用・定着の強化へ今月から運用開始** — google.com | 2026-08-04 13:18 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.joint-kaigo.com/articles/47959/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw0-OHgkzfNBOvZcGGUk6QEq
+  > Jackery （ジャクリ）法人のお客様向けお問い合わせはこちら ·  Jackery  法人向けポータブル電源 3600 Plus. トップ · 処遇改善 · SOYOKAZE、給与前払い制度を全 ...
+- **Webinar - Ran an große Speicher - Photovoltaik.eu** — google.com | 2026-08-04 12:59 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.photovoltaik.eu/solarspeicher/webinar-ran-grosse-speicher&ct=ga&cd=CAIyHDczMWUyYjg5M2RhYTc2NmU6Y29tOmVuOlVTOkw&usg=AOvVaw1eEW2KwELYWY6Y43ZAgxnO
+  > Der Messestand von  Sigenergy  in München. Mehr Bedarf, höhere Ansprüche an Netzdienlichkeit, knappe Anschlüsse. Mit der richtigen Marktstrategie, ...
+- **Sigenergy  lanceert nieuwe thuisbatterij, laadpaal en warmtepomp - Solar Magazine** — google.com | 2026-08-04 12:26 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://solarmagazine.nl/nieuws-zonne-energie/i44418/sigenergy-lanceert-nieuwe-thuisbatterij-laadpaal-en-warmtepomp&ct=ga&cd=CAIyHDczMWUyYjg5M2RhYTc2NmU6Y29tOmVuOlVTOkw&usg=AOvVaw24R5QpO_V7GOjFFvyk5cEx
+  > Sigenergy  heeft de nieuwe all-in-one thuisbatterij SigenStor Neo, de laadpaal Sigen EVAC G2 en de warmtepomp SigenFlux onthuld.
+- **Praxis geeft tot 27 procent korting op thuisbatterijen van dit topmerk - JFK** — google.com | 2026-08-04 12:15 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://jfk.men/gear/thuisbatterijen-praxis-korting-online/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw3shVgR8Aa8FT388SFMFXp9
+  > Praxis geeft tot 27% korting op thuisbatterijen: deze  Jackery -modellen zijn nu flink afgeprijsd. Het gaat om een online-deal. Lees hier meer.
+- **【画像】“ちょうどいいポタ電”  Jackery 「1000 New」が小型化＆進化してリニューアル 1/11** — google.com | 2026-08-04 11:32 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://news.livedoor.com/article/image_detail/31980767/%3Fimg_id%3D55488352&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw1zdWgnT1jaJUAITm33c5Mq
+  > ちょうどいいポタ電”  Jackery 「1000 New」が小型化＆進化してリニューアル 1/11.
+- **訪問介護の事業所数、過去最多を更新 続く微増傾向 業態の転換も＝厚労省統計** — google.com | 2026-08-04 10:14 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.joint-kaigo.com/articles/47943/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw3aYo7fiQWUM8oMVIEpTNBy
+  > Jackery （ジャクリ）法人のお客様向けお問い合わせはこちら ·  Jackery  法人向けポータブル電源 3600 Plus. トップ · データ · 訪問介護の事業所数、過去最多を ...
+- **【結城康博】介護・福祉職員の退職金共済を守れ！ 公費投入で制度の安定化と人材の確保・定着を** — google.com | 2026-08-04 07:28 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.joint-kaigo.com/articles/47929/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw30N81Ugz0NUSkeadDiV-2s
+  > Jackery （ジャクリ）法人のお客様向けお問い合わせはこちら ·  Jackery  法人向けポータブル電源 3600 Plus · トップ · コラム · 【結城康博】介護・福祉職員の ...
+- **停電時もアウトドアも便利「 Jackery  ポータブル電源 1500 New」が42％オフの8万6884円に** — google.com | 2026-08-04 06:13 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.itmedia.co.jp/mobile/articles/2608/04/news077.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw3VVD1WFZsk-SnxiXOmEZxO
+  > Amazon.co.jpのタイムセールにて、長寿命なリン酸鉄リチウムイオン電池を備えた「 Jackery  ポータブル電源 1500 New」が42％オフで販売中だ。1536Whの大容量 ...
+- **プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル** — google.com | 2026-08-04 04:08 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.sannichi.co.jp/prtimes/others/c39188_r349&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw282miMQz6YTjychcA8Mqu3
+  > Jackery  新TVCM「晴れたら、ジャクリ。」篇が2026年7月7日（火）より全国で放映開始.  Jackery  Japan ～日常から、ちょこっと発電♪ちょこっと節電♪で、ごき ...
+- **Tesla  bets on the Dominican Republic with the arrival of Solar Roof PHOTOS - De Último Minuto** — google.com | 2026-08-04 02:51 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://deultimominuto.net/en/uncategorized/tesla-bets-on-the-dominican-republic-with-the-arrival-of-solar-roof-photos/&ct=ga&cd=CAIyHGI3ODQwOTVhM2EzMWYzMTQ6Y29tOmVuOlVTOkw&usg=AOvVaw3sktiFZdAEJWweYq8EZ91T
+  > ...  Tesla Powerwall  storage system, and can qualify for the tax incentives contemplated in Law 57-07 on Incentives for the Development of Renewable ...
+
 ## ⚠️ 信源健康
 
 **抓取失败（请检查地址是否变更）：**
+- https://solarquarter.com/feed/  （<unknown>:47:3: mismatched tag）
 - Growatt / Sungrow / AlphaESS / Enphase / SolarEdge / Hoymiles / Deye / BYD battery…）  （<unknown>:2:0: syntax error）
 
-**窗口内 0 条（正常情况居多，连续多日为 0 才需要检查）：** 60 个源
+**窗口内 0 条（正常情况居多，连续多日为 0 才需要检查）：** 61 个源
 - https://www.pv-magazine.fr/feed/
 - https://www.pv-magazine.es/feed/
 - https://www.pv-magazine.it/feed/
@@ -386,4 +483,5 @@
 - https://news.google.com/rss/search?q=site%3Aea.govt.nz&hl=en&gl=NZ&ceid=NZ:en
 - https://news.google.com/rss/search?q=site%3Aerc.gov.ph&hl=en&gl=PH&ceid=PH:en
 - https://www.google.com/alerts/feeds/02133493801194607926/16146918729223398949
+- https://www.google.com/alerts/feeds/12317634030943780809/3511880935397149455
 - https://www.google.com/alerts/feeds/12317634030943780809/16894192632704053442
