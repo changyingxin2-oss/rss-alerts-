@@ -233,13 +233,13 @@ https://www.google.com/alerts/feeds/02133493801194607926/16146918729223398119
 [Google Alerts · 重点公司]
 # 给旗舰公司各建一个 alert（Tesla Powerwall / Marstek / Zendure / FoxESS /
 Growatt / Sungrow / AlphaESS / Enphase / SolarEdge / Hoymiles / Deye / BYD battery…）
-# https://www.google.com/alerts/feeds/12317634030943780809/3511880935397149615
-# https://www.google.com/alerts/feeds/12317634030943780809/8485424751910261558
-# https://www.google.com/alerts/feeds/12317634030943780809/2780443424138891726
-# https://www.google.com/alerts/feeds/12317634030943780809/3511880935397149455
-# https://www.google.com/alerts/feeds/12317634030943780809/3511880935397147116
-# https://www.google.com/alerts/feeds/12317634030943780809/12547113795801243517
-# https://www.google.com/alerts/feeds/12317634030943780809/131760047292014708
+https://www.google.com/alerts/feeds/12317634030943780809/3511880935397149615
+https://www.google.com/alerts/feeds/12317634030943780809/8485424751910261558
+https://www.google.com/alerts/feeds/12317634030943780809/2780443424138891726
+https://www.google.com/alerts/feeds/12317634030943780809/3511880935397149455
+https://www.google.com/alerts/feeds/12317634030943780809/3511880935397147116
+https://www.google.com/alerts/feeds/12317634030943780809/12547113795801243517
+https://www.google.com/alerts/feeds/12317634030943780809/131760047292014708
 
 # 德国活跃品牌另建德语风险词：如 "FoxESS Urteil OR Verbot OR Rückruf"
 https://www.google.com/alerts/feeds/12317634030943780809/16894192632704053442
